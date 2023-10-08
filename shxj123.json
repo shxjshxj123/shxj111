@@ -847,7 +847,7 @@
       "name": "影视|人人[js]",
       "type": 3,
       "api": "./sites/码上👓道/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人.js"
+      "ext": "./sites/码上/人人.js"
     },
     {
       "key": "drpy_js_低端",
