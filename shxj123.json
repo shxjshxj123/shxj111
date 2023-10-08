@@ -3220,6 +3220,21 @@
       }
     },
     {
+      "name": "B站1",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "爱豆",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "YT",
+      "type": 0,
+      "url": "https://jx.yangtu.top/?url="
+    },
+    {
       "name": "小种嗅探",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
