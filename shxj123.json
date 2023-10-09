@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "时光机本地豆瓣",
-      "name": "徐冉豆瓣",
+      "name": "冉神豆瓣",
       "type": 3,
       "api": "./sites/码上/merge.min.js",
       "searchable": 0,
@@ -26,7 +26,7 @@
     },
     {
       "key": "dr_码上看_哔哩影视",
-      "name": "徐冉看动漫",
+      "name": "冉神看动漫",
       "type": 3,
       "api": "./sites/码上/merge.min.js",
       "searchable": 0,
@@ -36,7 +36,7 @@
     },
     {
       "key": "dr_码上看_低端",
-      "name": "徐冉看低端",
+      "name": "冉神看低端",
       "type": 3,
       "api": "./sites/码上/merge.min.js",
       "searchable": 1,
@@ -46,7 +46,7 @@
     },
     {
       "key": "dr_码上看_荐片",
-      "name": "徐冉看荐片",
+      "name": "冉神看荐片",
       "type": 3,
       "api": "./sites/码上/merge.min.js",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "徐冉看玩偶",
+      "name": "冉神看玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
